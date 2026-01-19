@@ -1,2 +1,2 @@
 # git215_setup
-## Author: Luke Lunzer
+## Author: Your_First_Name Your_Last_Name
